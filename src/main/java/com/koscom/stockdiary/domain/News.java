@@ -11,4 +11,5 @@ import javax.persistence.Id;
 @Getter
 public class News {
     private String title;
+    private String link;
 }

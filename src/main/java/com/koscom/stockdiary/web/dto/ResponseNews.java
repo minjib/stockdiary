@@ -19,5 +19,6 @@ public class ResponseNews {
     @NoArgsConstructor
     public static class Item {
         private String title;
+        private String link;
     }
 }
